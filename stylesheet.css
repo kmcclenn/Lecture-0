@@ -1,0 +1,29 @@
+h4 {
+	color: blue;
+	text-align: center;
+}
+
+p {
+	color: purple;
+	border: 4px dotted red;
+	width: 20%;
+}
+
+form {
+	border: 18px solid yellow;
+	width: 20%;
+}
+
+.big {
+	font-size: 45px;
+	font-weight: bold;
+	color: red;
+}
+
+.different {
+	color: red;
+}
+
+body {
+	background-color: lightgray;
+}
